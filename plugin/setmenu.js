@@ -57,7 +57,7 @@ $maxexp (Exp To Level Up)
 %npmname
 %npmdesc
 %version
-%github
+https://chat.whatsapp.com/HAsG0S0W1MzJzQj4wUf3Zk
 
 Bagian Menu Header & Footer:
 %category (Kategori)
